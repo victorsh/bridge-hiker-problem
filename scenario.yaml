@@ -1,0 +1,16 @@
+---
+team:
+  - 100
+  - 50
+  - 20
+  - 10
+bridges:
+  - distance: 100
+    hikers:
+  - distance: 250
+    hikers:
+    - 2.5
+  - distance: 150
+    hikers:
+    - 25
+    - 15
